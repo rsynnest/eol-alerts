@@ -1,0 +1,10 @@
+pandas
+requests
+python-dotenv
+
+
+# Only needed to bild CSV from source PDF:
+# camelot-py
+# opencv-python
+# tabulate
+

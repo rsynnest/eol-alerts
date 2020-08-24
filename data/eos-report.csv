@@ -1,0 +1,584 @@
+Provider,Product,Version,EOS Date,Reference
+Adobe,Acrobat,DC,2020-04-07,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Acrobat Pro DC (Classic),2015,2020-04-07,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,Acrobat Reader DC (Classic),2015,2020-04-07,https://helpx.adobe.com/support/programs/eol-matrix.html#62
+Adobe,Acrobat Standard DC (Classic),2015,2020-04-07,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,Aem (CQ) All capabilities,AEM 6.3,2020-04-30,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Aem (CQ) All capabilities,AEM 6.4,2021-04-30,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Campaign,6.1,2020-03-29,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Captivate,9,2020-08-20,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,ColdFusion,2016,2021-02-17,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,ColdFusion Builder,2016,2021-02-17,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Connect 9.7,9.7,2020-11-17,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Connect 9.8,9.8,2021-05-14,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,LiveCycle Correspondence Management Solution,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Designer ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,LiveCycle Digital Signatures ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,LiveCycle ES4 Connector for EMC Documentum,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle ES4 Connector for IBM Content Manager,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle ES4 Connector for IBM FileNet,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle ES4 Connector for Microsoft SharePoint,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Forms ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Forms Pro ES4 Add-on,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,LiveCycle Forms Pro ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,LiveCycle Forms Standard ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,LiveCycle Output ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Process Management ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Reader Extensions ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Rights Management ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,LiveCycle Workbench ES4,11.x.x,2020-03-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Adobe,Muse,2018.1,2020-03-26,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Presenter,11.1,2020-09-03,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Reader,DC,2020-04-07,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,RoboHelp Server,10,2021-04-11,https://helpx.adobe.com/support/programs/eol-matrix.html#63
+Adobe,Flash,,2020-12-31,https://www.focuseduvation.com/flash-html5-end-life-flash-will-mean/
+Adobe,Flash Builder,4.7,2019-12-31,https://helpx.adobe.com/support/programs/eol-matrix.html
+Alpine Linux,Alpine Linux,3.7.x,2019-11-01,https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases
+Alpine Linux,Alpine Linux,3.8.x,2020-05-01,https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases
+Alpine Linux,Alpine Linux,3.9.x,2020-11-01,https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases
+Alpine Linux,Alpine Linux,3.1,2021-01-05,https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases
+Alpine Linux,Alpine Linux,3.10.x,2021-05-01,https://wiki.alpinelinux.org/wiki/Alpine_Linux:Releases
+Atlassian,Bamboo,6.8,2021-02-05,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bamboo,6.9,2021-05-23,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bitbucket Server,6,2021-02-12,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bitbucket Server,6.1,2021-03-05,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bitbucket Server,6.2,2021-04-09,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bitbucket Server,6.3,2021-05-14,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bitbucket Server,6.4,2021-06-18,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Bitbucket Server,6.5,2021-07-24,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Confluence,6.14,2021-01-22,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Confluence,6.15,2021-03-14,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Crowd,3.4,2021-03-13,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Crowd,3.5,2021-07-03,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Crucible,4.7,2021-02-14,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Fisheye,4.7,2021-02-14,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira,8.0.x,2021-02-11,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira,8.1.x,2021-04-04,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira,8.2,2021-05-21,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira,8.3.x,2021-07-22,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Service Desk,4.0.x,2021-02-11,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Service Desk,4.1.x,2021-04-04,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Service Desk,4.2.x,2021-05-21,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Service Desk,4.3.x,2021-07-22,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Software,8,2021-02-11,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Software,8.1,2021-04-04,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Software,8.2,2021-05-21,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Jira Software,8.3,2021-07-22,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Atlassian,Ultimate Permission Manager,2.6,2021-05-03,https://confluence.atlassian.com/support/atlassian-support-end-of-life-policy-201851003.html
+Bootstrap,Bootstrap,4.X,2020-02-14,
+Canonical,Ubuntu,16.04 LTS,2021-04-01,https://ubuntu.com/about/release-cycle
+CentOS,CentOS,6.X,2020-11-30,https://wiki.centos.org/FAQ/General#head-fe8a0be91ee3e7dea812e8694491e1dde5b75e6d
+Citrix,NetScaler Firmware,13,2021-05-15,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,NetScaler Gateway Firmware,13,2021-05-15,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,ShareFile Citrix Files for Mac,19.1,2021-04-08,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,ShareFile Citrix Files for Mac,19.11,2021-05-06,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,ShareFile Citrix Files for Outlook,6.5,2021-02-27,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,ShareFile Citrix Files for Windows,19.9,2021-03-30,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,ShareFile Storagezone Controller,5.8,2021-02-08,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,ShareFile Storagezone Controller,5.9,2021-05-07,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,SharFile Citrix Files for Mac,19.8,2021-02-12,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,Software Delivery Management,13,2021-05-17,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,XenApp,7.6,2021-01-11,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Citrix,XenDesktop,7.6,2021-01-11,https://www.citrix.com/support/product-lifecycle/product-matrix.html
+Corel,WinZip,21,2020-04-01,http://kb.winzip.com/kb/entry/132/
+Corel,WinZip,21.5,2020-10-01,http://kb.winzip.com/kb/entry/132/
+Corel,WinZip,22,2021-04-01,http://kb.winzip.com/kb/entry/132/
+Debian,Debian,8,2020-06-30,https://wiki.debian.org/LTS
+Debian,Debian,8 LTS,2020-06-30,https://wiki.debian.org/DebianReleases
+Django Project,Django,3.0.x,2021-04-01,https://www.djangoproject.com/download/#supported-versions
+Django Software Foundation,Django,1.11.x,2017-12-02,https://www.djangoproject.com/download/#supported-versions
+Docker,Docker Enterprise,3,2021-07-21,https://success.docker.com/article/maintenance-lifecycle
+Docker,Docker Enterprise Engine,19.03,2021-07-21,https://success.docker.com/article/maintenance-lifecycle
+Docker,Docker Trusted Registry,2.7.x,2021-07-21,https://success.docker.com/article/maintenance-lifecycle
+Docker,Universal Control Plane,3.2.x,2021-07-21,https://success.docker.com/article/maintenance-lifecycle
+Elastic,APM Server,6.3.X,2019-12-13,https://www.elastic.co/support/eol
+Elastic,APM Server,6.4.x,2020-02-21,https://www.elastic.co/support/eol
+Elastic,APM Server,6.5.x,2020-05-14,https://www.elastic.co/support/eol
+Elastic,APM Server,6.6.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,APM Server,6.7.x,2020-09-26,https://www.elastic.co/support/eol
+Elastic,APM Server,7.0.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,APM Server,7.1.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,APM Server,6.8.x,2020-11-21,https://www.elastic.co/support/eol
+Elastic,APM Server,7.2.x,2020-12-25,https://www.elastic.co/support/eol
+Elastic,APM Server,7.3.x,2021-01-31,https://www.elastic.co/support/eol
+Elastic,APM-Server,6.2.x,2019-08-06,https://www.elastic.co/support/eol
+Elastic,Beats,6.2.x,2019-08-06,https://www.elastic.co/support/eol
+Elastic,Beats,6.3.X,2019-12-13,https://www.elastic.co/support/eol
+Elastic,Beats,6.4.x,2020-02-23,https://www.elastic.co/support/eol
+Elastic,Beats,6.5.x,2020-05-14,https://www.elastic.co/support/eol
+Elastic,Beats,6.6.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,Beats,6.7.x,2020-09-26,https://www.elastic.co/support/eol
+Elastic,Beats,7.0.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,Beats,6.8.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Beats,7.1.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Beats,7.2.x,2020-12-25,https://www.elastic.co/support/eol
+Elastic,Beats,7.3.x,2021-01-31,https://www.elastic.co/support/eol
+Elastic,Elastic Cloud Enterprise,2.1.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,Elastic Cloud Enterprise,2.2.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,Elastic Cloud Enterprise,2.3.x,2021-01-25,https://www.elastic.co/support/eol
+Elastic,Elastics Cloud Enterprise,2.0.x,2020-03-25,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.2.x,2019-08-06,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.3.X,2019-12-13,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.4.x,2020-02-23,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.5.x,2020-05-14,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.6.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.7.x,2020-09-26,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,7.0.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,6.8.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,7.1.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,7.2.x,2020-12-25,https://www.elastic.co/support/eol
+Elastic,Elasticsearch,7.3.x,2021-01-31,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.2.x,2019-08-06,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.3.X,2019-12-13,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.4.x,2020-02-23,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.5.x,2020-05-14,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.6.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.7.x,2020-09-26,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,7.0.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,6.8.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,7.1.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,7.2.x,2020-12-25,https://www.elastic.co/support/eol
+Elastic,Elasticsearch-Hadoop,7.3.x,2021-01-31,https://www.elastic.co/support/eol
+Elastic,Kibana,6.2.x,2019-08-06,https://www.elastic.co/support/eol
+Elastic,Kibana,6.3.X,2019-12-13,https://www.elastic.co/support/eol
+Elastic,Kibana,6.4.x,2020-02-23,https://www.elastic.co/support/eol
+Elastic,Kibana,6.5.x,2020-05-14,https://www.elastic.co/support/eol
+Elastic,Kibana,6.6.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,Kibana,6.7.x,2020-09-26,https://www.elastic.co/support/eol
+Elastic,Kibana,7.0.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,Kibana,6.8.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Kibana,7.1.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Kibana,7.2.x,2020-12-25,https://www.elastic.co/support/eol
+Elastic,Kibana,7.3.x,2021-01-31,https://www.elastic.co/support/eol
+Elastic,Logstash,6.2.x,2019-08-06,https://www.elastic.co/support/eol
+Elastic,Logstash,6.3.X,2019-12-13,https://www.elastic.co/support/eol
+Elastic,Logstash,6.4.x,2020-02-23,https://www.elastic.co/support/eol
+Elastic,Logstash,6.5.x,2020-05-14,https://www.elastic.co/support/eol
+Elastic,Logstash,6.6.x,2020-07-29,https://www.elastic.co/support/eol
+Elastic,Logstash,6.7.x,2020-09-26,https://www.elastic.co/support/eol
+Elastic,Logstash,7.0.x,2020-10-10,https://www.elastic.co/support/eol
+Elastic,Logstash,6.8.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Logstash,7.1.x,2020-11-20,https://www.elastic.co/support/eol
+Elastic,Logstash,7.2.x,2020-12-25,https://www.elastic.co/support/eol
+Elastic,Logstash,7.3.x,2021-01-31,https://www.elastic.co/support/eol
+Femilab,Scientific Linux,6.X,2020-11-30,https://access.redhat.com/discussions/2399461
+FileMaker,FileMaker Platform,15.X,2019-09-20,https://www.filemaker.com/support/product-availability.html
+FileMaker,FileMaker Platform,16.x,2020-09-18,https://www.filemaker.com/support/product-availability.html
+Forcepoint,DLP Cloud Applications,8.6,2021-06-01,https://support.forcepoint.com/productsupportlifecycle
+Forcepoint,DLP Discover,8.6,2021-06-01,https://support.forcepoint.com/productsupportlifecycle
+Forcepoint,DLP Endpoint,8.6,2021-06-01,https://support.forcepoint.com/productsupportlifecycle
+Forcepoint,DLP Network,8.6,2021-06-01,https://support.forcepoint.com/productsupportlifecycle
+FreeBSD Foundation,FreeBSD,11.2,2019-10-31,https://www.freebsd.org/security/security.html#sup
+IBM,IBM Banking Data Warehouse,8.7.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Banking+Data+Warehouse&ibm-search=Search
+IBM,IBM Banking Data Warehouse,8.6.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Banking+Data+Warehouse&ibm-search=Search
+IBM,IBM Banking Data Warehouse,8.5.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Banking+Data+Warehouse&ibm-search=Search
+IBM,IBM Banking Industry Models,8.7.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Banking+Industry+Models&ibm-search=Search
+IBM,IBM Banking Industry Models,8.6.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Banking+Industry+Models&ibm-search=Search
+IBM,IBM Banking Industry Models,8.5.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Banking+Industry+Models&ibm-search=Search
+IBM,IBM Cloud Manager with Openstack,4.1.0,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Cloud+Manager+with+Openstack&ibm-search=Search
+IBM,IBM Cloud Manager with Openstack,4.2.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Cloud+Manager+with+Openstack&ibm-search=Search
+IBM,IBM Cloud Manager with Openstack,4.3.0,2020-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Cloud+Manager+with+Openstack&ibm-search=Search
+IBM,IBM Concert on Cloud,4.0.x,2021-01-12,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Concert+on+Cloud&ibm-search=Search
+IBM,IBM Concert on Cloud,3.0.x,2021-01-13,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Concert+on+Cloud&ibm-search=Search
+IBM,IBM Financial Markets Data Warehouse,8.7.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Financial+Markets+Data+Warehouse&ibm-search=Search
+IBM,IBM Financial Markets Data Warehouse,8.6.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Financial+Markets+Data+Warehouse&ibm-search=Search
+IBM,IBM Financial Markets Data Warehouse,8.5.0,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Financial+Markets+Data+Warehouse&ibm-search=Search
+IBM,IBM ILOG Elixir Enterprise,3.5.x,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+Elixir+Enterprise&ibm-search=Search
+IBM,IBM ILOG Elixir Enterprise,3.0.0,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+Elixir+Enterprise&ibm-search=Search
+IBM,IBM ILOG JViews Enterprise,8.8.x,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+JViews+Enterprise&ibm-search=Search
+IBM,IBM ILOG JViews Enterprise,8.7.0,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+JViews+Enterprise&ibm-search=Search
+IBM,IBM ILOG JViews Enterprise,8.6.0,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+JViews+Enterprise&ibm-search=Search
+IBM,IBM ILOG JViews Maps for Defense,8.8.x,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+JViews+Maps+for+Defense&ibm-search=Search
+IBM,IBM ILOG JViews Maps for Defense,8.7.0,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+JViews+Maps+for+Defense&ibm-search=Search
+IBM,IBM ILOG JViews Maps for Defense,8.6.0,2020-01-15,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+ILOG+JViews+Maps+for+Defense&ibm-search=Search
+IBM,IBM Security QRadar Core Appliance 21xx,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Core+Appliance+21xx&ibm-search=Search
+IBM,IBM Security QRadar Core Appliance 21xx,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Core+Appliance+21xx&ibm-search=Search
+IBM,IBM Security QRadar Core Appliance xx05,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Core+Appliance+xx05&ibm-search=Search
+IBM,IBM Security QRadar Core Appliance xx05,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Core+Appliance+xx05&ibm-search=Search
+IBM,IBM Security QRadar Core Appliance xx24,7.1.x,2020-07-31,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Core+Appliance+xx24&ibm-search=Search
+IBM,IBM Security QRadar Event Collector 1501,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Event+Collector+1501&ibm-search=Search
+IBM,IBM Security QRadar Event Collector 1501,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+Event+Collector+1501&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1201,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1201&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1201,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1201&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1202,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1202&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1301,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1301&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1301,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1301&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1310 LR,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1310+LR&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1310 LR,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1310+LR&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1310-SR,7.2.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1310-SR&ibm-search=Search
+IBM,IBM Security QRadar QFlow Collector 1310-SR,7.1.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+QRadar+QFlow+Collector+1310-SR&ibm-search=Search
+IBM,IBM Security Web Gateway Appliance,7.0.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=IBM+Security+Web+Gateway+Appliance&ibm-search=Search
+IBM,Platform Application Service Controller,1.1.0,2020-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Platform+Application+Service+Controller&ibm-search=Search
+IBM,PureData System for Transactions,1.0.0,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=PureData+System+for+Transactions&ibm-search=Search
+IBM,Rational Focal Point,6.6.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+Focal+Point&ibm-search=Search
+IBM,Rational Focal Point,6.5.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+Focal+Point&ibm-search=Search
+IBM,Rational Purify for Linux and UNIX,7.0.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+Purify+for+Linux+and+UNIX&ibm-search=Search
+IBM,Rational Purify for Windows,7.0.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+Purify+for+Windows&ibm-search=Search
+IBM,Rational PurifyPlus Enterprise Edition,7.0.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+PurifyPlus+Enterprise+Edition&ibm-search=Search
+IBM,Rational PurifyPlus for Linux and UNIX,7.0.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+PurifyPlus+for+Linux+and+UNIX&ibm-search=Search
+IBM,Rational PurifyPlus for Windows,7.0.x,2021-06-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Rational+PurifyPlus+for+Windows&ibm-search=Search
+IBM,SPSS Statistics Developer,23.0.x,2020-04-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=SPSS+Statistics+Developer&ibm-search=Search
+IBM,Watson Content Analytics,3.5.x,2019-09-30,https://www-01.ibm.com/software/support/lifecycleapp/PLCSearch.wss?q=Watson+Content+Analytics&ibm-search=Search
+Linux Foundation,Kernel,3.16,2020-04-30,https://www.kernel.org/category/releases.html
+MariaDB Foundation,MariaDB,5.5.x,2020-04-11,https://mariadb.org/about/maintenance-policy/
+MariaDB Foundation,MariaDB,10.1.x,2020-10-17,https://mariadb.org/about/maintenance-policy/
+McAfee,Content Security Suite,All,2020-01-12,https://www.mcafee.com/enterprise/en-us/support/product-eol.html
+McAfee,Email Gateway,7.6.4.X,2021-01-11,https://www.mcafee.com/enterprise/en-us/support/product-eol.html
+McAfee,Quarantine Manager,7.1.0,2021-01-11,https://www.mcafee.com/enterprise/en-us/support/product-eol.html
+McAfee,"SaaS Email Protection, Continuity, Encryption and Archiving",All,2021-01-11,https://www.mcafee.com/enterprise/en-us/support/product-eol.html
+MediaWiki,MediaWiki,1.32.X,2020-01-01,https://www.mediawiki.org/wiki/Version_lifecycle
+MediaWiki,MediaWiki,1.31.X,2021-06-01,https://www.mediawiki.org/wiki/Version_lifecycle
+Microsoft,Access,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Access,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Access Services in Microsoft SharePoint Server,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Azure StorSimple Series,8000,2020-07-01,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Cloud Platform System,,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Cloud Platform System Standard,,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics C5,2015,2020-01-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics CRM,2015,2020-01-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics GP,2015,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics GP,2015 R2,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics GP,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics NAV,2009 R2,2015-01-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=dynamics%20nav
+Microsoft,Dynamics NAV,2015,2020-01-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Dynamics SL,2015,2020-01-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Excel,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Excel,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Excel for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Excel Home and Student,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Excel Services in Microsoft SharePoint Server,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Exchange,2010,2020-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=exchange
+Microsoft,Exchange,2016,2020-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=exchange%202016
+Microsoft,Expression Blend,3,2015-01-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=expression%20blend
+Microsoft,Expression Design,3,2015-01-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=expression%20design
+Microsoft,Expression Encoder,3,2015-01-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=expression%20encoder
+Microsoft,Expression Encoder,4,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Expression Studio,3,2015-01-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=expression%20studio
+Microsoft,Expression Web,3,2015-01-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=expression%20web
+Microsoft,Expression Web,4,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,FAST Search Server for Internal Applications,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,FAST Search Server for Internet Sites,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,FAST Search Server for SharePoint,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Forefront Threat Management Gateway,2010 Enterprise,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Forefront Unified Access Gateway,2010,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Groove Server,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,HCP Pack,2008,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,HPC Pack,2008 R2,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Hyper-V Server,2008,2014-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%20storage%20server%202008
+Microsoft,Hyper-V Server,2008 R2,2014-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%20storage%20server%202008
+Microsoft,InfoPath,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,InMage/ASR Scout,,2020-12-31,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Internet Explorer,10.X,2020-01-31,https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Bringing-Internet-Explorer-11-to-Windows-Server-2012-and-Windows/ba-p/325297
+Microsoft,Internet Explorer,10,2020-01-31,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Internet Information Service (IIS),7.5,2020-01-04,https://support.microsoft.com/en-us/lifecycle/search/810
+Microsoft,Internet Information Services Smooth Streaming Client,1,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Lync Server,2010,2021-04-13,https://support.microsoft.com/en-us/lifecycle/search/?p1=14934
+Microsoft,Microsoft Application Virtualization (Terminal Services),4.6,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Application Virtualization (Windows Desktops),4.6,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Application Virtualization Hosting (Windows Desktops),4.6,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Applicatiuon Virtualization Sequencer,4.6,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Azure StorSimple Series,1200,2020-07-01,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Excel Mobile,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Expression Studio,4,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Publisher,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Publisher,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Report Viewer Redistributable,2010,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft User Experience Virtualization Service Pack 1,2.1,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Microsoft Windows 10 (Enterprise and Education Editions),1709,2020-04-14,https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+Microsoft,"Microsoft Windows 10, (Home,Pro, Pro workstations)",1809,2020-04-14,https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+Microsoft,NET Core,2.1.X,2019-12-23,https://github.com/dotnet/core/blob/master/microsoft-support.md
+Microsoft,Office,2010,2015-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=office%202010
+Microsoft,Office,7,2020-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%207
+Microsoft,Office,Server 2008,2020-01-14,https://support.microsoft.com/en-us/lifecycle/search/?p1=12925
+Microsoft,Office,2010,2020-10-13,https://support.microsoft.com/en-us/lifecycle/search/?p1=13615
+Microsoft,Office,2016 (Mac),2020-10-13,https://support.microsoft.com/en-us/lifecycle/search/?p1=18335
+Microsoft,Office,2016 (Mac),2020-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=Office%20Standard%202016%20for%20Mac
+Microsoft,Office,2016,2020-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=Office%20Standard%202016
+Microsoft,Office (all editions),2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Home & Business for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Home & Student for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Home and Business,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Home and Student,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Professional,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Professional Plus,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Standard,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Office Standard for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,OneNote,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,OneNote,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,OneNote Home and Student,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Outlook,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Outlook,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Outlook for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Outlook with Business Contact Manager,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,PerformancePoint Services in Microsoft SharePoint Server,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Powerpoint,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,PowerPoint,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,PowerPoint for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,PowerPoint Home and Student,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,PowerShell Core,6.1.X,2019-09-28,https://docs.microsoft.com/en-us/powershell/scripting/powershell-support-lifecycle?view=powershell-6
+Microsoft,Project,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Project Professional,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Project Professional,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Project Server,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Project Standard,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Seach Server,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,SharePoint,2010,2020-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=sharepoint
+Microsoft,SharePoint,2016,2021-07-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=sharepoint%202016
+Microsoft,SharePoint Designer,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,SharePoint for Internet Sites Enterprise,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,SharePoint for Internet Sites Standard,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,SharePoint Foundation,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,SharePoint Server Service Pack 2,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,SharePoint Workspace,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Skype for Business (Client),2016,2020-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=skype%20for%20business%202016
+Microsoft,Skype for Business (Server),2015,2020-10-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=skype%20for%20business%202015
+Microsoft,SQL Server,2008,2019-07-09,https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+Microsoft,SQL Server,2014,2019-07-09,https://support.microsoft.com/en-us/lifecycle/search?alpha=sql%20server%202014
+Microsoft,SQL Server Compact,4,2021-07-13,https://support.microsoft.com/en-us/lifecycle/search?alpha=sharepoint%202016
+Microsoft,StorSimple Data Manager,,2020-07-01,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,System Center Data Protection Manager,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,System Center Essentials,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,System Center Service Manager,2010,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visio,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visio Professional,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visio Professional,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visio Standard,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visio Standard,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Basic Express,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual C#,2010 Express,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual C++,2010 Express,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Studio (all editions),2010,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Studio 2015,(all editions),2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Studio Team Foundation Server,2010,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Studio Team Foundation Server 2015,(all editions),2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Studio Team Foundation Server Update 4,2015,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Studio Update 3,2015,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Visual Web Developer,2010 Express,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows 10 (Enterprise and Education Editions),1703,2019-10-08,https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+Microsoft,"Windows 10 (Home,Pro, Pro workstations)",1803,2019-11-12,https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+Microsoft,Windows 10 Education,1809,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,Windows 10 Enterprise,2015 LTSB,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows 10 Enterprise,1809,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,Windows 10 Home,1909,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,Windows 10 IoT Enterprise,2015 LTSB,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows 10 IoT Enterprise,1809,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,Windows 10 Pro,1909,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,Windows 10 Pro Education,1909,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,Windows 10 Pro for Workstations,1909,2021-05-11,https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%2010%201912
+Microsoft,"Windows 10(Enterprise, Education, IoT Enterprise)",1803,2020-11-10,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,"Windows 10(Enterprise, Home, Pro, Pro for Workstations, IoT Enterprise)",1903,2020-12-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,"Windows 10, (Home,Pro, Pro workstations)",1703,2019-10-09,https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet
+Microsoft,Windows 7,,2020-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%207
+Microsoft,Windows Communication Foundation RIA Services,,2020-09-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows Defender Antivirus for Windows 10,,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows Defender Exploit Guard,,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows Embedded Standard,7,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows Identity Foundation,,2020-04-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows MultiPoint Server,2010,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows MultiPoint Server Academic,2010,2020-07-14,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows Server 2008,Server Pack 2,2020-01-14,https://www.microsoft.com/en-us/cloud-platform/windows-server-2008
+Microsoft,Windows Server 2008 R2,Server Pack 1,2020-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%20server%202008
+Microsoft,Windows Server Update Services,3,2012-07-10,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%20server%20update
+Microsoft,"Windows Server(Datacenter, Standard, IoT Enterprise)",1903,2020-12-08,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Windows Storage Server(all editions),2008,2020-01-14,https://support.microsoft.com/en-us/lifecycle/search?alpha=windows%20storage%20server%202008
+Microsoft,Word,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Word,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Word for Mac,2016,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+Microsoft,Word Home and Student,2010,2020-10-13,https://support.microsoft.com/en-us/help/4470235/products-reaching-end-of-support-for-2020
+NodeJS,Node.js,10,2021-04-01,https://nodejs.org/en/about/releases/
+One Identity,syslog-ng Premium,7.0.10,2019-08-19,https://support.oneidentity.com/syslog-ng-premium-edition/lifecycle
+OpenJS Foundation,Node.js,8,2019-12-31,https://nodejs.org/en/about/releases/
+OpenJS Foundation,Node.js,13,2020-06-01,https://nodejs.org/en/about/releases/
+OpenJS Foundation,Node.js,10,2021-04-30,https://nodejs.org/en/about/releases/
+OpenSSL,OpenSSL,1.0.2,2019-12-31,https://www.openssl.org/blog/blog/2018/05/18/new-lts/
+Oracle,Application Express,5,2020-04-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Application Testing Suite,9.3,2019-08-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Application Testing Suite,12.X,2020-05-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Berkeley DB,11.2.5.3,2019-12-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Berkeley DB,12.1.6.2,2021-01-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Berkeley DB,12.1.6.0,2021-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Berkeley DB Java Edition,11.2.5,2019-12-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Big Data SQL,3.x,2021-03-01,http://www.oracle.com/us/support/library/lifetime-support-hardware-301321.pdf
+Oracle,Business Transaction Management,12.1.X,2019-10-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database,11.2,2020-12-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database,18c,2021-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database (Enterprise),12.1,2021-07-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database (Standard),12.1,2021-07-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database Gateway,12.1,2021-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database Mobile Server,11.1,2019-10-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Database Mobile Server,11.2,2020-10-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Developer Studio,12.5,2021-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Enterprise Manager Grid Control,12.1,2020-10-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Fail Safe,4.1.X,2021-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Java SE,13.x,2020-09-01,https://www.oracle.com/technetwork/java/java-se-support-roadmap.html
+Oracle,JDK,15.x,2021-03-31,http://www.oracle.com/us/support/library/lifetime-support-hardware-301321.pdf
+Oracle,Linux,6,2021-03-01,http://www.oracle.com/us/support/library/lifetime-support-hardware-301321.pdf
+Oracle,MySQL Cluster,7.2,2020-02-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,MySQL Database,5.6,2021-02-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,NoSQL,11.2.1,2019-10-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,NoSQL,11.2.2,2020-11-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,NoSQL,12.1.2,2021-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Real User Experience Insight,12.1.X,2019-10-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,REST Data Services,3,2020-06-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Secure Backup,12.1,2020-02-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,SQL Developer,4,2019-09-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,SQL Developer,4.1,2020-05-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,SQL Developer Data Modeler,4,2019-09-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,SQL Developer Data Modeler,4.1,2020-05-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,Sun Studio,12.3,2019-12-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,TimesTen In-Memory Database,11.2.2,2021-01-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+Oracle,TimesTen In-Memory Database,18.1,2021-05-01,http://www.oracle.com/us/support/library/lifetime-support-hardware-301321.pdf
+Oracle,VM,3,2021-03-01,http://www.oracle.com/us/support/library/lifetime-support-hardware-301321.pdf
+Oracle,VM VirtualBox,5.X,2020-07-01,http://www.oracle.com/us/support/library/lifetime-support-technology-069183.pdf
+PostgreSQL,PostgreSQL,9.4,2019-12-01,https://www.postgresql.org/support/versioning/
+PostgreSQL,PostgreSQL,9.5,2021-02-11,https://www.postgresql.org/support/versioning/
+Python Software Foundation,Python,2.X,2020-01-01,https://pythonclock.org/
+Python Software Foundation,Python,3.5,2020-09-13,https://devguide.python.org/
+RedHat,JBoss Web Server,1.x,2020-04-01,https://access.redhat.com/support/policy/updates/jboss_notes/
+RedHat,RHEL,7.4,2019-08-31,https://access.redhat.com/support/policy/updates/errata
+RedHat,RHEL,6.X,2020-11-30,https://access.redhat.com/support/policy/updates/errata
+RedHat,RHEL for SAP Solutions,7.2,2019-11-30,https://access.redhat.com/support/policy/updates/errata
+RedHat,RHEL for SAP Solutions,7.3,2020-11-30,https://access.redhat.com/support/policy/updates/errata
+RSA,Archer Suite,6.2,2020-02-28,https://community.rsa.com/docs/DOC-73365
+RSA,Archer Suite,6.3,2020-10-31,https://community.rsa.com/docs/DOC-73365
+RSA,Archer Suite,6.4,2021-04-30,https://community.rsa.com/docs/DOC-73365
+RSA,Authentication Agent for Active Directory Federation Service,2,2021-06-30,https://community.rsa.com/docs/DOC-40387
+RSA,Authentication Agent for Web for IIS and Apache,8,2019-12-31,https://community.rsa.com/docs/DOC-73369
+RSA,Authentication Manager Appliance,8.2,2019-07-31,https://community.rsa.com/docs/DOC-40387
+RSA,Authentication Manager Appliance,8.2 SP1,2020-04-30,https://community.rsa.com/docs/DOC-73369
+RSA,Authentication Manager Appliance,8.3,2021-02-28,https://community.rsa.com/docs/DOC-73369
+RSA,Identity Governance & Lifestyle,7.0.x,2019-08-31,https://community.rsa.com/docs/DOC-73377
+RSA,NetWitness Logs & Network,11.1,2019-07-31,https://community.rsa.com/docs/DOC-40387
+RSA,Netwitness Storage Appliance,VNX,2019-12-31,https://community.rsa.com/docs/DOC-73378#jive_content_id_RSA_NetWitnessStorage
+RSA,Netwitness Storage Appliance,Isilon,2021-03-31,https://community.rsa.com/docs/DOC-40387
+RSA,Pluggable Authentication Module,8,2020-12-31,https://community.rsa.com/docs/DOC-73369
+RSA,SecurID Authentication API for C and Java,8.1.3,2019-08-31,https://community.rsa.com/docs/DOC-73369
+RSA,SecurID Authentication API for C and Java,8.6,2020-06-30,https://community.rsa.com/docs/DOC-73369
+RSA,SecurID Software Token for Windows,5.x,2020-03-31,https://community.rsa.com/docs/DOC-73369
+RSA,Web Threat Detection,6.2,2020-07-31,https://community.rsa.com/docs/DOC-73380
+RSA,Web Threat Detection,6.3,2020-12-31,https://community.rsa.com/docs/DOC-73380
+RSA,Web Threat Detection,6.4,2021-05-31,https://community.rsa.com/docs/DOC-73380
+Sophos,SafeGuard Easy,7,2019-09-30,https://community.sophos.com/kb/en-us/119020
+Sophos,SafeGuard Enterprise,7,2019-09-30,https://community.sophos.com/kb/en-us/119020
+Symantec,Altiris,8,2020-03-07,https://support.symantec.com/us/en/article.howto111097.html
+Symantec,Altiris,7.5-7.6.X,2020-10-07,https://support.symantec.com/us/en/article.howto111097.html
+Symantec,Veritas NetBackup Server,7.7+,2021-05-01,https://support.symantec.com/us/en/article.howto111097.html
+Taylor Otwell,Laravel,5.7,2019-09-04,https://laravel.com/docs/5.8/releases#support-policy
+Taylor Otwell,Laravel,5.8,2020-02-26,https://laravel.com/docs/5.8/releases#support-policy
+Taylor Otwell,Laravel,5.5,2020-08-30,https://laravel.com/docs/5.8/releases#support-policy
+Tenable,Industrial Security,1.4.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Industrial Security,1.5.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.3.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.4.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,1.3.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.2.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.1.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.0.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.6.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.5.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus,8.7.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus Agent,7.4.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus Network Monitor,5.9.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus Network Monitor,5.6.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Nessus Network Monitor,5.10.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Tenable.sc,5.12.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Tenable.sc,5.10.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+Tenable,Tenable.sc,5.9.x,2021-04-30,https://community.tenable.com/s/group/0F9f2000000XimNCAS/product-lifecycle-management
+The Durpal Association,Drupal,8.6.X,2019-12-04,https://www.drupal.org/core/release-cycle-overview
+The Durpal Association,Drupal,8.7.x,2020-06-03,https://www.drupal.org/core/release-cycle-overview
+The PHP Group,PHP,7.1,2019-12-01,https://www.php.net/supported-versions.php
+The PHP Group,PHP,7.2,2020-11-30,https://www.php.net/supported-versions.php
+The PHP Group,PHP,7.3,2020-12-06,https://www.php.net/supported-versions.php
+VMWare,vCenter Converter Standalone,6.2,2019-12-14,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,AirWatch Console,9.3,2019-09-14,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,App Volumes,2.1,2019-10-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,App Volumes,2.14,2020-05-29,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,App Volumes,2.2,2020-12-13,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,App Volumes,2.16,2021-03-14,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,AppDefeense Plugin,2,2019-07-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Cloud Provider Pod,1,2020-10-18,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Essentials PKS,1.13.4,2020-04-01,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,ESX/ESXi,6,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Fusion,11,2020-03-24,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Horizon,7.x,2021-03-22,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Horizon DaaS On Prem Platform,8,2020-04-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Identity Manager,3.3,2019-09-14,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Integrated Openstack,4,2019-09-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Integrated Openstack,4.1,2019-09-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX for vSphere,6.3,2020-02-02,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX for vSphere,6.4,2021-01-16,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX-T,2,2019-09-07,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX-T,2.1,2019-09-07,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX-T Data Center,2.2,2019-09-18,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX-T Data Center,2.3,2020-02-28,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,NSX-T Data Center,2.4,2020-09-07,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Pulse IoT Center,1,2020-01-18,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,SDDC Manager,3.5,2019-12-13,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,SDDC Manager,2.3,2019-12-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,SDDC Manager,3.7,2020-03-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Site Recovery Manager,"6.0, 6.1",2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Smart Assurance,9.4.2,2019-08-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Smart Assurance,9.5,2020-12-20,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Smart Assurance,9.6,2021-01-22,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Smart Experience,3.1,2020-12-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,ThinApp,4.7.3,2019-10-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,ThinApp,5.x,2021-03-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Enviornment Manager,9.3,2020-01-04,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Environment Manager,9.3,2020-01-04,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Environment Manager,9.4,2020-05-29,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Environment Manager,9.5,2020-09-06,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Environment Manager,9.6,2020-12-13,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Environment Manager,9.7,2021-03-14,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,User Environment Manager,9.8,2021-07-02,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCenter,6,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCenter Application Discovery Manager,7.1,2020-06-30,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCenter Chargeback Manager,2.7.x,2019-12-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCenter Update Manager,6,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Availability for Cloud-to-Cloud DR,1.x,2020-05-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Availability for vCloud Director,2,2019-10-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Availibility,3,2021-04-11,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Director Extender,1,2019-10-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Director Extender,1.1,2019-10-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Director for Service Providers,9.1,2020-03-08,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Director for Service Providers,9.5,2020-10-04,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vCloud Director for Service Providers,9.7,2021-03-28,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Automation,7.3,2019-12-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Automation,"7.4, 7.5",2020-12-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Automation,7.6,2021-04-11,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Automation DevKit,6.2.2,2019-12-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Automation STD,6.2.5,2019-12-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Business for Cloud,7.5,2019-12-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Business for Cloud,7.6,2021-04-11,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Configuration Manager,5.8.4,2020-06-30,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Configuration Manager,5.8.5,2020-06-30,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Hyperic,5.8.4-5.8.6,2019-12-31,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Log Insight,4.6,2019-08-23,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Log Insight,4.7,2020-04-11,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Log Insight,4.8,2020-10-03,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Network Insight,3.9,2019-12-20,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Network Insight,4,2020-12-20,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Operations for Horizon,6.6,2020-03-20,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Operations Manager,7,2021-04-30,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Operations Manager,7.5,2021-04-30,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Operations Manager,6.6 & 6.7,2019-08-23,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Orchestrator,7.3,2019-12-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Orchestrator,7.4-7.5,2020-12-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMware,vRealize Orchestrator,7.6,2021-04-11,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Suite Lifecycle Manager,1,2019-09-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Suite Lifecycle Manager,1.1,2019-09-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Suite Lifecycle Manager,1.2,2019-09-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vRealize Suite Lifecycle Manager,2,2020-09-20,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vSAN,6.0-6.2,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vSphere Data Protection,6,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vSphere Data Protection,6.1,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vSphere Integrated Containers,1.5,2020-01-17,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vSphere Replication,6,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,vSphere Replication,6.1,2020-03-12,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workspace ONE UEM Console,9.4,2019-11-02,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workspace ONE UEM Console,9.5,2020-01-02,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workspace ONE UEM Console,9.6,2020-02-13,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workspace ONE UEM Console,9.7,2020-04-03,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workspace ONE UEM Console,1810,2020-05-02,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workspace ONE UEM Console,1907,2021-02-02,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+VMWare,Workstation Pro and Player,15,2020-12-19,https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf
+Wireshark Foundation,Wireshark,2.4.x,2019-07-19,https://wiki.wireshark.org/Development/LifeCycle

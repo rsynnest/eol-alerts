@@ -1,0 +1,25 @@
+service: eol-alerter
+
+provider:
+  name: aws
+  runtime: python3.7
+  region: us-west-2
+
+  environment:
+      SLACK_WEBHOOK_URL: ${env:SLACK_WEBHOOK_URL}
+
+functions:
+  eol-alert:
+    handler: handler.main
+    events:
+      - schedule: rate(24 hours)
+
+custom:
+  pythonRequirements:
+    dockerizePip: 'non-linux'
+    zip: true
+    slim: true
+
+plugins:
+  - serverless-python-requirements
+  - serverless-dotenv-plugin
