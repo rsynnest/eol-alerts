@@ -7,6 +7,7 @@ except ImportError:
 import os
 import logging
 from datetime import datetime, date, timedelta
+from dateutil.relativedelta import *
 
 import requests
 import pandas as pd
@@ -53,7 +54,6 @@ def slack_alert(title, df_payload, icon=""):
             }
         ]
     }
-    print(df_payload)
     for index, row in df_payload.iterrows():
         payload['blocks'].append(
             {
@@ -65,29 +65,32 @@ def slack_alert(title, df_payload, icon=""):
             }
         )
     import json
-    print(json.dumps(payload))
     url = os.getenv("SLACK_WEBHOOK_URL")
     r = requests.post(url, json=payload)
-    print(r.text)
 
 def main(event, context):
     df = pd.read_csv('./data/eos-report.csv')
     #df['EOS Date'] = pd.to_datetime(df['EOS Date'])
     df = df.astype({'Provider':'str', 'Product':'str', 'Version':'str', 'EOS Date':'datetime64[ns]', 'Reference':'str'})
-    today = datetime.now()
-    todays_date = pd.Timestamp(today.date())
-    if today.strftime("%d") == '01':
-        print('ok')
-        next_month = pd.Timestamp(today.date() + timedelta(days=31))
+    todays_date = pd.Timestamp(datetime.now().date())
+    if today.strftime("%m%d") == '0101': # first day of the year
+        next_year = pd.Timestamp(today.date() + relativedelta(year=+1))
+        eos_annual = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_year)]
+        if len(eos_annual) > 0:
+            logger.info("Sending annual alert...")
+            title = 'Services going EOL this year:'
+            slack_alert(title, eos_monthly)
+    elif today.strftime("%d") == '01': # first day of the month
+        next_month = pd.Timestamp(today.date() + relativedelta(month=+1))
         eos_monthly = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_month)]
         if len(eos_monthly) > 0:
             logger.info("Sending monthly alert...")
-            title = 'EOS Within 31 Days:'
+            title = 'Services going EOL this month:'
             slack_alert(title, eos_monthly)
     eos_today = df[df['EOS Date'] == todays_date]
     if len(eos_today) > 0:
         logger.info("Sending daily alert...")
-        title = 'EOS Today:'
+        title = 'Services going EOL today:'
         slack_alert(title, eos_today, icon=":exclamation:")
 
 # for running locally (not on AWS lambda)
