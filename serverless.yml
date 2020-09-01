@@ -13,6 +13,9 @@ functions:
     handler: handler.main
     events:
       - schedule: rate(24 hours)
+    package:
+      exclude:
+        - venv/**
 
 custom:
   pythonRequirements:
