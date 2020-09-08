@@ -4,6 +4,13 @@ This is a tool for sending notifications on software/hardware that is going EOL.
 The current data source is [this CIS EOS Report](https://www.cisecurity.org/wp-content/uploads/2020/07/EOS-Report-July-2020.pdf).
 Over time I hope to be adding EOL data as I come across it.
 
+## Todo
+
+Incorporate source data:
+ - Microsoft lifecycle exports: https://docs.microsoft.com/en-us/lifecycle/products/export
+ - https://wiki.ubuntu.com/Releases
+ - https://helpx.adobe.com/support/programs/eol-matrix.html
+
 ## Behavior
 
 Right now the script just sends Slack alerts to a provided Webhook URL.
