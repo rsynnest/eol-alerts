@@ -8,14 +8,15 @@ provider:
   environment:
       SLACK_WEBHOOK_URL: ${env:SLACK_WEBHOOK_URL}
 
+package:
+  exclude:
+    - venv/**
+
 functions:
   eol-alert:
     handler: handler.main
     events:
       - schedule: rate(24 hours)
-    package:
-      exclude:
-        - venv/**
 
 custom:
   pythonRequirements:
