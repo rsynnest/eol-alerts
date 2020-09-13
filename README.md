@@ -7,7 +7,7 @@ The base dataset is [this CIS EOS Report](https://www.cisecurity.org/wp-content/
 ## Setup + Usage
 
 1. Using the `.env.example` file as a reference, add your Slack Webhook URL to a `.env` file in the project root
-2. Install + configure serverless for your AWS Lambda instance
+2. Install + configure [serverless](https://www.serverless.com/) for your AWS Lambda instance
 3. Run `sls deploy`
 
 
