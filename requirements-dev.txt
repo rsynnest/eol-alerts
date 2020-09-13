@@ -1,0 +1,9 @@
+pandas
+requests
+python-dotenv
+
+# Only needed for PDF to CSV conversion of https://www.cisecurity.org/wp-content/uploads/2020/07/EOS-Report-July-2020.pdf
+camelot-py
+opencv-python
+tabulate
+
