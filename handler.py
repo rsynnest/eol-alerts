@@ -75,11 +75,11 @@ def main(event, context):
     todays_date = pd.Timestamp(datetime.now().date())
     if today.strftime("%m%d") == '0101': # first day of the year
         next_year = pd.Timestamp(today.date() + relativedelta(year=+1))
-        eos_annual = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_year)]
-        if len(eos_annual) > 0:
+        eos_yearly = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_year)]
+        if len(eos_yearly) > 0:
             logger.info("Sending annual alert...")
             title = 'Services going EOL this year:'
-            slack_alert(title, eos_monthly)
+            slack_alert(title, eos_yearly)
     elif today.strftime("%d") == '01': # first day of the month
         next_month = pd.Timestamp(today.date() + relativedelta(month=+1))
         eos_monthly = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_month)]
@@ -87,11 +87,11 @@ def main(event, context):
             logger.info("Sending monthly alert...")
             title = 'Services going EOL this month:'
             slack_alert(title, eos_monthly)
-    eos_today = df[df['EOS Date'] == todays_date]
-    if len(eos_today) > 0:
+    eos_daily = df[df['EOS Date'] == todays_date]
+    if len(eos_daily) > 0:
         logger.info("Sending daily alert...")
         title = 'Services going EOL today:'
-        slack_alert(title, eos_today, icon=":exclamation:")
+        slack_alert(title, eos_daily, icon=":exclamation:")
 
 # for running locally (not on AWS lambda)
 if __name__ == "__main__":
