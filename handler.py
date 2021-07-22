@@ -74,14 +74,14 @@ def main(event, context):
     df = df.astype({'Provider':'str', 'Product':'str', 'Version':'str', 'EOS Date':'datetime64[ns]', 'Reference':'str'})
     todays_date = pd.Timestamp(datetime.now().date())
     if todays_date.is_year_start:
-        next_year = todays_date + pd.Timedelta("1 year")
+        next_year = todays_date + pd.Timedelta(days=365)
         eos_yearly = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_year)]
         if len(eos_yearly) > 0:
             logger.info("Sending annual alert...")
             title = 'Services going EOL this year:'
             slack_alert(title, eos_yearly)
     elif todays_date.is_month_start:
-        next_month = todays_date + pd.Timedelta("1 month")
+        next_month = todays_date + pd.Timedelta(days=31)
         eos_monthly = df[(df['EOS Date'] > todays_date) & (df['EOS Date'] < next_month)]
         if len(eos_monthly) > 0:
             logger.info("Sending monthly alert...")
